@@ -3,4 +3,4 @@
 
 # BMI Calculator 💪
 
-A simple flutter BMI-Calculator app.
+A beautiful and fully functional flutter based BMI-Calculator app.
